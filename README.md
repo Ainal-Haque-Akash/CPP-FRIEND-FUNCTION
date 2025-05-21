@@ -1,0 +1,2 @@
+# CPP-FRIEND-FUNCTION
+Lan Manual from VU
